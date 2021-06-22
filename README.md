@@ -7,7 +7,9 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <a href="https://www.youtube.com/watch?v=yZeJTQXvA-I&list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4"> <img src="https://github.com/Pawan41/cyber_security_image/blob/main/cyber_security.jpg"> </a>
 <br>I got to have hands on experience on:
 <li>python
-<li>HTML
+<li>Automation
+<li>SQL Injection
+<li>IDOR
 <li>cybersecurity
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
